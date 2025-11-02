@@ -25,16 +25,9 @@ In this task, a city’s maintenance scheduling system is represented as a direc
     Both algorithms were tested on multiple datasets of varying sizes.
 
 Summary of Algorithm Results
-graph_id,num_nodes,num_edges,tarjan_time_ms,toposort_time_ms
-1,6,6,0,342333,0,024875
-2,6,7,0,012625,0,010459
-3,7,8,0,009709,0,008208
-4,10,14,0,015208,0,011125
-5,12,18,0,067542,0,019042
-6,15,20,0,022167,0,018750
-7,22,34,0,033416,0,024708
-8,24,36,0,033291,0,026292
-9,26,40,0,030500,0,024666
+
+<img width="702" height="299" alt="Снимок экрана 2025-11-02 в 21 27 57" src="https://github.com/user-attachments/assets/9a80f253-9bcb-4c8a-92d5-adfa1532d888" />
+
 Analysis and Comparison
 
 Theory
